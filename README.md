@@ -1,6 +1,6 @@
 ![theree card transparent](https://github.com/jnerydesigner/css-loading-animated/blob/main/images/css-loading.png)
 
-## Glassmorphism Product Card
+## Css Loading Animated
 
 ![theree card transparent gif animated](https://github.com/jnerydesigner/css-loading-animated/blob/main/images/css-loading.gif)
 
